@@ -45,3 +45,8 @@ body{
     font-weight: 700;
     transition: color 0.3s linear;
 }
+.phone-text{
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
