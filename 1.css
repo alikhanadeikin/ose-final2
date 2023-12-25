@@ -50,3 +50,15 @@ body{
     font-weight: 400;
     color: #fff;
 }
+.phone-holder{
+    display: flex;
+    align-items: center;
+}
+.button{
+    background-color: #FF7400;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 18px;
+    font-weight: 700;
+    transition: background-color 0.2s linear;
+}
